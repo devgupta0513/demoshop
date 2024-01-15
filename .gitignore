@@ -4,7 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
-src/components/Item.js
+
+# .gitignore file
+src/components/try.jsx
+
 # testing
 /coverage
 
