@@ -28,15 +28,10 @@ function App() {
   ]
   return (
     <div >
-      <Card>
-      <Item name={response[0].Itemname}    >helloo from nirma</Item>
-      <Itemdata date={response[0].Itemdate} month={response[0].Itemmonth} year={response[0].Itemyear} ></Itemdata>
-      <Item name={response[1].Itemname}></Item>
-      <Itemdata date={response[1].Itemdate} month={response[1].Itemmonth} year={response[1].Itemyear} ></Itemdata>
-      <Item name={response[2].Itemname}></Item>
-      <Itemdata date={response[2].Itemdate} month={response[2].Itemmonth} year={response[2].Itemyear} ></Itemdata>
-      <div className="App">hello </div>
-      </Card>
+       <h1 class="text-3xl font-bold underline">
+    Hello world!
+  </h1>
+      
 
     </div>
   );

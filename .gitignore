@@ -6,7 +6,7 @@
 .pnp.js
 
 # .gitignore file
-src/components/try.jsx
+
 
 # testing
 /coverage
